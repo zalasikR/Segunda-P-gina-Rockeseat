@@ -1,6 +1,6 @@
 # 🌐 Portal de Notícias TechNews
 
-Bem-vindo(a) ao repositório do **Portal de Notícias TechNews**! 🚀 Este projeto é um site responsivo que reúne as últimas tendências e inovações em tecnologia, como robótica, hologramas, internet, realidade virtual e muito mais!
+Bem-vindo(a) ao repositório do **Portal de Notícias TechNews**! 🚀 Este projeto é um site responsivo que reúne as últimas tendências e inovações em tecnologia, como IA, hologramas, internet, realidade virtual e muito mais!
 
 ---
 
